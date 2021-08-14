@@ -1,0 +1,67 @@
+/*Color palette:
+
+violet;
+
+#c51f3e;
+
+purple;
+*/
+
+body{
+    background-color: violet;
+}
+img{
+    height: 40rem;
+    width: 40rem;
+    border-radius: 30px;
+}
+p{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+    color: black;
+}
+form{
+    margin-left: 60%;
+}
+.btn{
+    background-color: #c51f3e;
+  border: none;
+  color: black;
+  border-radius: 30px;
+  padding: 15px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.logo{
+    height: 8rem;
+    width: 25rem;
+}
+.titulo{
+    background-color: #c51f3e;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.img{
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.texto{
+    background-color: purple;
+    float: left;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 45%;
+    border-radius: 30px;
+}
+.login{
+    background-color: purple;
+    margin-right: 5%;
+    border-radius: 30px;
+    position: fixed;
+}
